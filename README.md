@@ -1,16 +1,10 @@
 # pharmacy
 
-A new Flutter application.
+This is a APP create for my fathers pharmacy, it let the custermers can send a message to the pharmacy and can check if they can come to get there medicine.
 
-## Getting Started
+## ScreenShots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![demo png](https://github.com/anderson155081/Pharmacy_app_FLUTTER/blob/master/211279.jpg)
+![demo png](https://github.com/anderson155081/Pharmacy_app_FLUTTER/blob/master/211280.jpg)
+![demo png](https://github.com/anderson155081/Pharmacy_app_FLUTTER/blob/master/211281.jpg)
+![demo png](https://github.com/anderson155081/Pharmacy_app_FLUTTER/blob/master/211282.jpg)
