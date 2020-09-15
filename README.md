@@ -1,6 +1,6 @@
 # pharmacy
 
-This is a APP create for my fathers pharmacy, it let the custermers can send a message to the pharmacy and can check if they can come to get there medicine.
+This is a APP for pharmacy.
 
 ## ScreenShots
 
